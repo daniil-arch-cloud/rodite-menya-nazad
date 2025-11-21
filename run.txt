@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 здоровый_сон 3
 здоровый_сон
 <<<<<<< HEAD
@@ -11,3 +12,6 @@
 здоровый_сон
 
 >>>>>>> backend_metal
+=======
+feature1 modification
+>>>>>>> feature1
